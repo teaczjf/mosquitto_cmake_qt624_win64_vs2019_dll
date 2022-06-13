@@ -14,5 +14,5 @@ https://mosquitto.org/download/
 下周运行就会在C盘安装。对应的动态库和头文件里面都有。
 ```
 
-![1655088394597](../../lkt_project/xdevice-platform/README.assets/1655088394597.png)
+![1655100181806](README.assets/1655100181806.png)
 
