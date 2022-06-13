@@ -3,6 +3,9 @@
 ```
 mosquitto_cmake_qt624_win64_vs2019_dll
 mosquitto测试工程 cmake+qt 管理  使用的vs2019的编译器
+
+源码
+git clone https://github.com/eclipse/mosquitto.git
 ```
 
 
